@@ -1,0 +1,6 @@
+{
+	"port": 5000,
+	"jwtSecret": "everyone loves putin",
+	"mongoUri": "mongodb+srv://geser:sharlin_27091985@cluster0-mq6ua.azure.mongodb.net/app?retryWrites=true&w=majority",
+	"baseUrl": "http://localhost:5000"
+}
